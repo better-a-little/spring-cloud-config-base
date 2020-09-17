@@ -7,7 +7,6 @@ spring:
     config:
       server:
         git:
-          uri: https://git/s.git
-          search-paths:
-          username:
-          password: 
+          uri: https://github.com/better-a-little/spring-cloud-config-base/blob/master/config-server.yml
+          username: 18626403370@163.com
+          password: wangxf123456
